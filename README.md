@@ -6,11 +6,15 @@
 
 ### Universidade Tecnológica Federal do Paraná (UTFPR)
 
-👨‍🎓 **Aluno:** Bruno E. M. Ferreira &nbsp;|&nbsp; 🎓 **Turma:** 2026 &nbsp;|&nbsp; 📅 **Período:** Abril/2026 - Março/2028
+<p align="center">
+  <img src="./assets/icons/student.svg" width="18" height="18" valign="middle" /> <strong>Aluno:</strong> Bruno E. M. Ferreira &nbsp;|&nbsp;
+  <img src="./assets/icons/book.svg" width="18" height="18" valign="middle" /> <strong>Turma:</strong> 2026 &nbsp;|&nbsp;
+  <img src="./assets/icons/calendar.svg" width="18" height="18" valign="middle" /> <strong>Período:</strong> Abril/2026 &ndash; Março/2028
+</p>
 
 <br>
 
-### 🛠️ Tecnologias do Curso
+### <img src="./assets/icons/tools.svg" width="20" height="20" valign="middle" /> Tecnologias do Curso
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
@@ -21,36 +25,36 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-6A5ACD?style=for-the-badge&logo=ai&logoColor=white)](#)
+[![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-6A5ACD?style=for-the-badge&logo=probot&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 📌 Navegação Rápida
+## <img src="./assets/icons/nav.svg" width="22" height="22" valign="middle" /> Navegação Rápida
 
-- [📘 Sobre Este Repositório](#sobre-este-repositorio)
-- [🗂️ Cronograma e Disciplinas](#cronograma-e-disciplinas)
-- [🚀 Links Úteis](#links-uteis)
-- [🎯 Observações](#observacoes)
+- [Sobre Este Repositório](#sobre-este-repositorio)
+- [Cronograma e Disciplinas](#cronograma-e-disciplinas)
+- [Links Úteis](#links-uteis)
+- [Observações](#observacoes)
 
 ---
 
-## <a id="sobre-este-repositorio"></a>📘 Sobre Este Repositório
+## <a id="sobre-este-repositorio"></a><img src="./assets/icons/book.svg" width="22" height="22" valign="middle" /> Sobre Este Repositório
 
 Este repositório atua como um portfólio central e diário de bordo para a **Pós-Graduação em Desenvolvimento Web com TypeScript e Inteligência Artificial** da UTFPR.
 
 Aqui você encontrará:
 
-- 📅 O **cronograma completo de disciplinas**.
-- 💻 **Projetos desenvolvidos** ao longo do curso.
-- 📝 **Atividades práticas**, laboratórios e anotações de estudo.
+- <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" /> O **cronograma completo de disciplinas**.
+- <img src="./assets/icons/code.svg" width="16" height="16" valign="middle" /> **Projetos desenvolvidos** ao longo do curso.
+- <img src="./assets/icons/project.svg" width="16" height="16" valign="middle" /> **Atividades práticas**, laboratórios e anotações de estudo.
 
 ---
 
-## <a id="cronograma-e-disciplinas"></a>🗂️ Cronograma e Disciplinas
+## <a id="cronograma-e-disciplinas"></a><img src="./assets/icons/schedule.svg" width="22" height="22" valign="middle" /> Cronograma e Disciplinas
 
-Abaixo estão listadas todas as disciplinas do curso organizadas em formato de cards interativos. Cada card apresenta as tecnologias, status atual, corpo docente e duas divisões dedicadas para os **exercícios** e o **projeto final**.
+Abaixo estão listadas todas as disciplinas do curso organizadas em formato de cards interativos. Cada card apresenta as tecnologias, período de realização, corpo docente e duas divisões dedicadas para os **exercícios** e o **projeto final**.
 
 <br>
 
@@ -60,7 +64,8 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <th align="left">
         <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
-        <h3>🌐 1. Desenvolvimento de Interfaces Web com HTML5 e CSS3</h3>
+        <img src="./assets/icons/01-web.svg" width="22" height="22" valign="middle" />
+        &nbsp;<b>1. Desenvolvimento de Interfaces Web com HTML5 e CSS3</b>
       </th>
       <th align="right" valign="middle">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -72,21 +77,25 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <td colspan="2">
         <p>
-          <b>📅 Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>
-          <b>👨‍🏫 Professores:</b> Prof. Dr. Andres Porfirio &bull; Prof. Dr. Diego Marczal
+          <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Professores:</b> Prof. Dr. Andres Porfirio &bull; Prof. Dr. Diego Marczal
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>📝 Exercícios e Atividades</b>
-        <br><br>
-        <a href="#">🔗 Acessar Exercícios</a>
+        <a href="#">
+          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Exercícios e Atividades</b>
+        </a>
       </td>
       <td width="50%" align="center">
-        <b>🚀 Projeto Final</b>
-        <br><br>
-        <a href="#">🔗 Acessar Projeto Final</a>
+        <a href="#">
+          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Projeto Final</b>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -100,7 +109,8 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <th align="left">
         <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
-        <h3>⚡ 2. Lógica de Programação para Desenvolvedores Web</h3>
+        <img src="./assets/icons/02-logic.svg" width="22" height="22" valign="middle" />
+        &nbsp;<b>2. Lógica de Programação para Desenvolvedores Web</b>
       </th>
       <th align="right" valign="middle">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -111,21 +121,25 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <td colspan="2">
         <p>
-          <b>📅 Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>
-          <b>👨‍🏫 Professores:</b> <i>A definir</i>
+          <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>📝 Exercícios e Atividades</b>
-        <br><br>
-        <a href="#">🔗 Acessar Exercícios</a>
+        <a href="#">
+          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Exercícios e Atividades</b>
+        </a>
       </td>
       <td width="50%" align="center">
-        <b>🚀 Projeto Final</b>
-        <br><br>
-        <a href="#">🔗 Acessar Projeto Final</a>
+        <a href="#">
+          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Projeto Final</b>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -139,7 +153,8 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <th align="left">
         <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
-        <h3>⚛️ 3. Desenvolvimento de Aplicações Web Dinâmicas e Interativas</h3>
+        <img src="./assets/icons/03-react.svg" width="22" height="22" valign="middle" />
+        &nbsp;<b>3. Desenvolvimento de Aplicações Web Dinâmicas e Interativas</b>
       </th>
       <th align="right" valign="middle">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -151,21 +166,25 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <td colspan="2">
         <p>
-          <b>📅 Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>
-          <b>👨‍🏫 Professores:</b> <i>A definir</i>
+          <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>📝 Exercícios e Atividades</b>
-        <br><br>
-        <a href="#">🔗 Acessar Exercícios</a>
+        <a href="#">
+          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Exercícios e Atividades</b>
+        </a>
       </td>
       <td width="50%" align="center">
-        <b>🚀 Projeto Final</b>
-        <br><br>
-        <a href="#">🔗 Acessar Projeto Final</a>
+        <a href="#">
+          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Projeto Final</b>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -179,7 +198,8 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <th align="left">
         <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
-        <h3>🐧 4. Linux para Desenvolvedores e DevOps</h3>
+        <img src="./assets/icons/04-linux.svg" width="22" height="22" valign="middle" />
+        &nbsp;<b>4. Linux para Desenvolvedores e DevOps</b>
       </th>
       <th align="right" valign="middle">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -190,21 +210,25 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <td colspan="2">
         <p>
-          <b>📅 Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>
-          <b>👨‍🏫 Professores:</b> <i>A definir</i>
+          <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>📝 Exercícios e Atividades</b>
-        <br><br>
-        <a href="#">🔗 Acessar Exercícios</a>
+        <a href="#">
+          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Exercícios e Atividades</b>
+        </a>
       </td>
       <td width="50%" align="center">
-        <b>🚀 Projeto Final</b>
-        <br><br>
-        <a href="#">🔗 Acessar Projeto Final</a>
+        <a href="#">
+          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Projeto Final</b>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -218,7 +242,8 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <th align="left">
         <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
-        <h3>🐙 5. Controle de Versão e Colaboração com Git e GitHub</h3>
+        <img src="./assets/icons/05-git.svg" width="22" height="22" valign="middle" />
+        &nbsp;<b>5. Controle de Versão e Colaboração com Git e GitHub</b>
       </th>
       <th align="right" valign="middle">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -230,21 +255,25 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <td colspan="2">
         <p>
-          <b>📅 Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>
-          <b>👨‍🏫 Professores:</b> <i>A definir</i>
+          <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>📝 Exercícios e Atividades</b>
-        <br><br>
-        <a href="#">🔗 Acessar Exercícios</a>
+        <a href="#">
+          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Exercícios e Atividades</b>
+        </a>
       </td>
       <td width="50%" align="center">
-        <b>🚀 Projeto Final</b>
-        <br><br>
-        <a href="#">🔗 Acessar Projeto Final</a>
+        <a href="#">
+          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Projeto Final</b>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -258,7 +287,8 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <th align="left">
         <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
-        <h3>🗄️ 6. Banco de Dados para Sistemas Web</h3>
+        <img src="./assets/icons/06-db.svg" width="22" height="22" valign="middle" />
+        &nbsp;<b>6. Banco de Dados para Sistemas Web</b>
       </th>
       <th align="right" valign="middle">
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -269,21 +299,25 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <td colspan="2">
         <p>
-          <b>📅 Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>
-          <b>👨‍🏫 Professores:</b> <i>A definir</i>
+          <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>📝 Exercícios e Atividades</b>
-        <br><br>
-        <a href="#">🔗 Acessar Exercícios</a>
+        <a href="#">
+          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Exercícios e Atividades</b>
+        </a>
       </td>
       <td width="50%" align="center">
-        <b>🚀 Projeto Final</b>
-        <br><br>
-        <a href="#">🔗 Acessar Projeto Final</a>
+        <a href="#">
+          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Projeto Final</b>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -297,7 +331,8 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <th align="left">
         <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
-        <h3>🧱 7. Programação Orientada a Objetos</h3>
+        <img src="./assets/icons/07-oop.svg" width="22" height="22" valign="middle" />
+        &nbsp;<b>7. Programação Orientada a Objetos</b>
       </th>
       <th align="right" valign="middle">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -308,21 +343,25 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <td colspan="2">
         <p>
-          <b>📅 Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>
-          <b>👨‍🏫 Professores:</b> <i>A definir</i>
+          <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>📝 Exercícios e Atividades</b>
-        <br><br>
-        <a href="#">🔗 Acessar Exercícios</a>
+        <a href="#">
+          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Exercícios e Atividades</b>
+        </a>
       </td>
       <td width="50%" align="center">
-        <b>🚀 Projeto Final</b>
-        <br><br>
-        <a href="#">🔗 Acessar Projeto Final</a>
+        <a href="#">
+          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Projeto Final</b>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -336,7 +375,8 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <th align="left">
         <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
-        <h3>🦁 8. Desenvolvimento de Aplicações Back-End com NestJS</h3>
+        <img src="./assets/icons/08-backend.svg" width="22" height="22" valign="middle" />
+        &nbsp;<b>8. Desenvolvimento de Aplicações Back-End com NestJS</b>
       </th>
       <th align="right" valign="middle">
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
@@ -348,21 +388,25 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <td colspan="2">
         <p>
-          <b>📅 Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>
-          <b>👨‍🏫 Professores:</b> <i>A definir</i>
+          <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>📝 Exercícios e Atividades</b>
-        <br><br>
-        <a href="#">🔗 Acessar Exercícios</a>
+        <a href="#">
+          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Exercícios e Atividades</b>
+        </a>
       </td>
       <td width="50%" align="center">
-        <b>🚀 Projeto Final</b>
-        <br><br>
-        <a href="#">🔗 Acessar Projeto Final</a>
+        <a href="#">
+          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Projeto Final</b>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -376,7 +420,8 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <th align="left">
         <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
-        <h3>📊 9. Gestão de Projetos Web com Metodologias Ágeis</h3>
+        <img src="./assets/icons/09-agile.svg" width="22" height="22" valign="middle" />
+        &nbsp;<b>9. Gestão de Projetos Web com Metodologias Ágeis</b>
       </th>
       <th align="right" valign="middle">
         <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Agile" />
@@ -387,21 +432,25 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <td colspan="2">
         <p>
-          <b>📅 Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>
-          <b>👨‍🏫 Professores:</b> <i>A definir</i>
+          <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>📝 Exercícios e Atividades</b>
-        <br><br>
-        <a href="#">🔗 Acessar Exercícios</a>
+        <a href="#">
+          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Exercícios e Atividades</b>
+        </a>
       </td>
       <td width="50%" align="center">
-        <b>🚀 Projeto Final</b>
-        <br><br>
-        <a href="#">🔗 Acessar Projeto Final</a>
+        <a href="#">
+          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Projeto Final</b>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -415,7 +464,8 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <th align="left">
         <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
-        <h3>☁️ 10. Infraestrutura Web: Servidores, Deploy e Cloud</h3>
+        <img src="./assets/icons/10-cloud.svg" width="22" height="22" valign="middle" />
+        &nbsp;<b>10. Infraestrutura Web: Servidores, Deploy e Cloud</b>
       </th>
       <th align="right" valign="middle">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -427,21 +477,25 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <td colspan="2">
         <p>
-          <b>📅 Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>
-          <b>👨‍🏫 Professores:</b> <i>A definir</i>
+          <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>📝 Exercícios e Atividades</b>
-        <br><br>
-        <a href="#">🔗 Acessar Exercícios</a>
+        <a href="#">
+          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Exercícios e Atividades</b>
+        </a>
       </td>
       <td width="50%" align="center">
-        <b>🚀 Projeto Final</b>
-        <br><br>
-        <a href="#">🔗 Acessar Projeto Final</a>
+        <a href="#">
+          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Projeto Final</b>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -455,7 +509,8 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <th align="left">
         <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
-        <h3>💡 11. Projeto e Implementação de Soluções SaaS Inteligentes</h3>
+        <img src="./assets/icons/11-saas.svg" width="22" height="22" valign="middle" />
+        &nbsp;<b>11. Projeto e Implementação de Soluções SaaS Inteligentes</b>
       </th>
       <th align="right" valign="middle">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -468,21 +523,25 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <td colspan="2">
         <p>
-          <b>📅 Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>
-          <b>👨‍🏫 Professores:</b> <i>A definir</i>
+          <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>📝 Exercícios e Atividades</b>
-        <br><br>
-        <a href="#">🔗 Acessar Exercícios</a>
+        <a href="#">
+          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Exercícios e Atividades</b>
+        </a>
       </td>
       <td width="50%" align="center">
-        <b>🚀 Projeto Final</b>
-        <br><br>
-        <a href="#">🔗 Acessar Projeto Final</a>
+        <a href="#">
+          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Projeto Final</b>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -496,7 +555,8 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <th align="left">
         <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
-        <h3>🚀 12. Inovação e Tendências em Desenvolvimento Web</h3>
+        <img src="./assets/icons/12-ai.svg" width="22" height="22" valign="middle" />
+        &nbsp;<b>12. Inovação e Tendências em Desenvolvimento Web</b>
       </th>
       <th align="right" valign="middle">
         <img src="https://img.shields.io/badge/Inteligência%20Artificial-6A5ACD?style=for-the-badge&logo=probot&logoColor=white" alt="IA" />
@@ -507,21 +567,25 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     <tr>
       <td colspan="2">
         <p>
-          <b>📅 Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>
-          <b>👨‍🏫 Professores:</b> <i>A definir</i>
+          <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <b>📝 Exercícios e Atividades</b>
-        <br><br>
-        <a href="#">🔗 Acessar Exercícios</a>
+        <a href="#">
+          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Exercícios e Atividades</b>
+        </a>
       </td>
       <td width="50%" align="center">
-        <b>🚀 Projeto Final</b>
-        <br><br>
-        <a href="#">🔗 Acessar Projeto Final</a>
+        <a href="#">
+          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+          &nbsp;<b>Projeto Final</b>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -529,15 +593,15 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 
 ---
 
-## <a id="links-uteis"></a>🚀 Links Úteis
+## <a id="links-uteis"></a><img src="./assets/icons/links.svg" width="22" height="22" valign="middle" /> Links Úteis
 
-- 📌 **Site oficial do curso:** [UTFPR Pós-Graduação](https://pos-ead.gp.utfpr.edu.br/)
-- 📌 **Portal de Cursos e Eventos:** [Site de Cursos Eventos](https://funtefpr.conveniar.com.br/Eventos/)
-- 📌 **Portal do aluno:** [Portal do Aluno UTFPR](https://www.utfpr.edu.br/alunos/portal-do-aluno/)
-- ⚙️ **Ambiente Virtual de Aprendizagem:** [Moodle UTFPR](https://moodle.utfpr.edu.br/)
+- <img src="./assets/icons/links.svg" width="16" height="16" valign="middle" /> **Site oficial do curso:** [UTFPR Pós-Graduação](https://pos-ead.gp.utfpr.edu.br/)
+- <img src="./assets/icons/links.svg" width="16" height="16" valign="middle" /> **Portal de Cursos e Eventos:** [Site de Cursos Eventos](https://funtefpr.conveniar.com.br/Eventos/)
+- <img src="./assets/icons/student.svg" width="16" height="16" valign="middle" /> **Portal do aluno:** [Portal do Aluno UTFPR](https://www.utfpr.edu.br/alunos/portal-do-aluno/)
+- <img src="./assets/icons/tools.svg" width="16" height="16" valign="middle" /> **Ambiente Virtual de Aprendizagem:** [Moodle UTFPR](https://moodle.utfpr.edu.br/)
 
 ---
 
-## <a id="observacoes"></a>🎯 Observações
+## <a id="observacoes"></a><img src="./assets/icons/target.svg" width="22" height="22" valign="middle" /> Observações
 
 Sinta-se à vontade para explorar os diretórios e visualizar o código-fonte dos projetos. Este repositório está em constante evolução conforme o avanço nos módulos do curso. ✨
