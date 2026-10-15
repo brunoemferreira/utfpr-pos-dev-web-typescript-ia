@@ -76,7 +76,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          &nbsp;<b>Período:</b> 06/04/2026 até 24/05/2026<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> Prof. Dr. Andres Porfirio &bull; Prof. Dr. Diego Marczal
         </p>
@@ -118,7 +118,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          &nbsp;<b>Período:</b> 01/06/2026 até 26/07/2026<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
@@ -161,7 +161,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          &nbsp;<b>Período:</b> 24/08/2026 até 11/10/2026<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
@@ -203,7 +203,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          &nbsp;<b>Período:</b> 19/10/2026 até 06/12/2026<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
@@ -246,7 +246,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          &nbsp;<b>Período:</b> 01/02/2027 até 14/03/2027<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
@@ -288,7 +288,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          &nbsp;<b>Período:</b> 22/03/2027 até 02/05/2027<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
@@ -330,7 +330,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          &nbsp;<b>Período:</b> 10/05/2027 até 20/06/2027<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
@@ -373,7 +373,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          &nbsp;<b>Período:</b> 12/07/2027 até 22/08/2027<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
@@ -415,7 +415,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          &nbsp;<b>Período:</b> 30/08/2027 até 10/10/2027<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
@@ -458,7 +458,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          &nbsp;<b>Período:</b> 18/10/2027 até 05/12/2027<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
@@ -502,7 +502,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+          &nbsp;<b>Período:</b> 31/01/2028 até 26/03/2028<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
         </p>
