@@ -175,9 +175,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="./03-desenvolvimento-de-aplicacoes-web-dinamicas-e-interativas/projeto-final">
+        <a href="https://github.com/brunoemferreira/utfpr-aplicacao-web-dinamica-e-interativa">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final</b>
+          &nbsp;<b>Projeto Final -  Aplicação WEB dinâmica e interativa</b>
         </a>
       </td>
     </tr>
