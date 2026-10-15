@@ -58,48 +58,22 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left">
+      <th colspan="2" width="100%" align="left">
         <h3>🌐 1. Desenvolvimento de Interfaces Web com HTML5 e CSS3</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="2" width="100%">
         <p>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
         </p>
         <p>
-          <b>📌 Status:</b> <code>⏳ Em andamento</code> &nbsp;|&nbsp;
+          <b>📌 Status:</b> <code>⏳ Em andamento</code><br>
           <b>👨‍🏫 Professores:</b> Prof. Dr. Andres Porfirio &bull; Prof. Dr. Diego Marczal
         </p>
-        <details>
-          <summary><b>📋 Conteúdo Programático & Tópicos</b></summary>
-          <br>
-          <ul>
-            <li>☑️ Configuração do Ambiente</li>
-            <li>⬜ 00 - Fundamentos da Internet
-              <ul>
-                <li>☑️ Aula 1. O que é a Internet ?</li>
-                <li>☑️ Aula 2. História da Internet</li>
-                <li>☑️ Aula 3. Como a Internet Funciona</li>
-                <li>⬜ Aula 4. HTTP</li>
-                <li>⬜ Aula 5. DNS</li>
-                <li>⬜ Aula 6. Web Hosting</li>
-                <li>☑️ Aula 7. Navegador para Devs</li>
-                <li>⬜ Aula 8. Git e GitHub</li>
-                <li>⬜ Laboratório</li>
-              </ul>
-            </li>
-            <li>⬜ 01 - Fundamentos e Semântica com HTML5</li>
-            <li>⬜ 02 - Estilização Essencial e Box Model com CSS3</li>
-            <li>⬜ 03 - Layout Moderno: Flexbox e Grid</li>
-            <li>⬜ 04 - Design Responsivo e Acessibilidade</li>
-            <li>⬜ 05 - Interatividade: Animações e Efeitos Avançados</li>
-            <li>⬜ 06 - IA no Workflow: Prototipação e Otimização</li>
-          </ul>
-        </details>
       </td>
     </tr>
     <tr>
@@ -123,19 +97,19 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left">
+      <th colspan="2" width="100%" align="left">
         <h3>⚡ 2. Lógica de Programação para Desenvolvedores Web</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="2" width="100%">
         <p>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         </p>
         <p>
-          <b>📌 Status:</b> <code>📅 A cursar</code> &nbsp;|&nbsp;
+          <b>📌 Status:</b> <code>📅 A cursar</code><br>
           <b>👨‍🏫 Professores:</b> <i>A definir</i>
         </p>
       </td>
@@ -161,20 +135,20 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left">
+      <th colspan="2" width="100%" align="left">
         <h3>⚛️ 3. Desenvolvimento de Aplicações Web Dinâmicas e Interativas</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="2" width="100%">
         <p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         </p>
         <p>
-          <b>📌 Status:</b> <code>📅 A cursar</code> &nbsp;|&nbsp;
+          <b>📌 Status:</b> <code>📅 A cursar</code><br>
           <b>👨‍🏫 Professores:</b> <i>A definir</i>
         </p>
       </td>
@@ -200,19 +174,19 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left">
+      <th colspan="2" width="100%" align="left">
         <h3>🐧 4. Linux para Desenvolvedores e DevOps</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="2" width="100%">
         <p>
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
         </p>
         <p>
-          <b>📌 Status:</b> <code>📅 A cursar</code> &nbsp;|&nbsp;
+          <b>📌 Status:</b> <code>📅 A cursar</code><br>
           <b>👨‍🏫 Professores:</b> <i>A definir</i>
         </p>
       </td>
@@ -238,20 +212,20 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left">
+      <th colspan="2" width="100%" align="left">
         <h3>🐙 5. Controle de Versão e Colaboração com Git e GitHub</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="2" width="100%">
         <p>
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         </p>
         <p>
-          <b>📌 Status:</b> <code>📅 A cursar</code> &nbsp;|&nbsp;
+          <b>📌 Status:</b> <code>📅 A cursar</code><br>
           <b>👨‍🏫 Professores:</b> <i>A definir</i>
         </p>
       </td>
@@ -277,19 +251,19 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left">
+      <th colspan="2" width="100%" align="left">
         <h3>🗄️ 6. Banco de Dados para Sistemas Web</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="2" width="100%">
         <p>
           <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         </p>
         <p>
-          <b>📌 Status:</b> <code>📅 A cursar</code> &nbsp;|&nbsp;
+          <b>📌 Status:</b> <code>📅 A cursar</code><br>
           <b>👨‍🏫 Professores:</b> <i>A definir</i>
         </p>
       </td>
@@ -315,19 +289,19 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left">
+      <th colspan="2" width="100%" align="left">
         <h3>🧱 7. Programação Orientada a Objetos</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="2" width="100%">
         <p>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         </p>
         <p>
-          <b>📌 Status:</b> <code>📅 A cursar</code> &nbsp;|&nbsp;
+          <b>📌 Status:</b> <code>📅 A cursar</code><br>
           <b>👨‍🏫 Professores:</b> <i>A definir</i>
         </p>
       </td>
@@ -353,20 +327,20 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left">
+      <th colspan="2" width="100%" align="left">
         <h3>🦁 8. Desenvolvimento de Aplicações Back-End com NestJS</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="2" width="100%">
         <p>
           <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         </p>
         <p>
-          <b>📌 Status:</b> <code>📅 A cursar</code> &nbsp;|&nbsp;
+          <b>📌 Status:</b> <code>📅 A cursar</code><br>
           <b>👨‍🏫 Professores:</b> <i>A definir</i>
         </p>
       </td>
@@ -392,19 +366,19 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left">
+      <th colspan="2" width="100%" align="left">
         <h3>📊 9. Gestão de Projetos Web com Metodologias Ágeis</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="2" width="100%">
         <p>
           <img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=azuredevops&logoColor=white" alt="Agile" />
         </p>
         <p>
-          <b>📌 Status:</b> <code>📅 A cursar</code> &nbsp;|&nbsp;
+          <b>📌 Status:</b> <code>📅 A cursar</code><br>
           <b>👨‍🏫 Professores:</b> <i>A definir</i>
         </p>
       </td>
@@ -430,20 +404,20 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left">
+      <th colspan="2" width="100%" align="left">
         <h3>☁️ 10. Infraestrutura Web: Servidores, Deploy e Cloud</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="2" width="100%">
         <p>
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
         </p>
         <p>
-          <b>📌 Status:</b> <code>📅 A cursar</code> &nbsp;|&nbsp;
+          <b>📌 Status:</b> <code>📅 A cursar</code><br>
           <b>👨‍🏫 Professores:</b> <i>A definir</i>
         </p>
       </td>
@@ -469,21 +443,21 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left">
+      <th colspan="2" width="100%" align="left">
         <h3>💡 11. Projeto e Implementação de Soluções SaaS Inteligentes</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="2" width="100%">
         <p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
           <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         </p>
         <p>
-          <b>📌 Status:</b> <code>📅 A cursar</code> &nbsp;|&nbsp;
+          <b>📌 Status:</b> <code>📅 A cursar</code><br>
           <b>👨‍🏫 Professores:</b> <i>A definir</i>
         </p>
       </td>
@@ -509,20 +483,20 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left">
+      <th colspan="2" width="100%" align="left">
         <h3>🚀 12. Inovação e Tendências em Desenvolvimento Web</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="2" width="100%">
         <p>
           <img src="https://img.shields.io/badge/Inteligência%20Artificial-000000?style=flat-square&logo=openai&logoColor=white" alt="IA" />
           <img src="https://img.shields.io/badge/Inovação%20Web-3178C6?style=flat-square" alt="Web" />
         </p>
         <p>
-          <b>📌 Status:</b> <code>📅 A cursar</code> &nbsp;|&nbsp;
+          <b>📌 Status:</b> <code>📅 A cursar</code><br>
           <b>👨‍🏫 Professores:</b> <i>A definir</i>
         </p>
       </td>
