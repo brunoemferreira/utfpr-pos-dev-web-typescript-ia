@@ -83,16 +83,26 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <th width="50%" align="center">
+        <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+        &nbsp;Exercícios e Atividades
+      </th>
+      <th width="50%" align="center">
+        <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+        &nbsp;Projeto Final
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="./01-desenvolvimento-de-interfaces-web-com-html5-e-css3/exercicios">
-          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Exercícios e Atividades</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Exercícios
         </a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="./01-desenvolvimento-de-interfaces-web-com-html5-e-css3/projeto-final">
-          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Projeto Final
         </a>
       </td>
     </tr>
@@ -125,16 +135,26 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <th width="50%" align="center">
+        <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+        &nbsp;Exercícios e Atividades
+      </th>
+      <th width="50%" align="center">
+        <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+        &nbsp;Projeto Final
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="./02-logica-de-programacao-para-desenvolvedores-web/exercicios">
-          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Exercícios e Atividades</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Exercícios
         </a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="./02-logica-de-programacao-para-desenvolvedores-web/projeto-final">
-          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Projeto Final
         </a>
       </td>
     </tr>
@@ -168,16 +188,26 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <th width="50%" align="center">
+        <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+        &nbsp;Exercícios e Atividades
+      </th>
+      <th width="50%" align="center">
+        <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+        &nbsp;Projeto Final
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="./03-desenvolvimento-de-aplicacoes-web-dinamicas-e-interativas/exercicios">
-          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Exercícios e Atividades</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Exercícios
         </a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="https://github.com/brunoemferreira/utfpr-aplicacao-web-dinamica-e-interativa">
-          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final -  Aplicação WEB dinâmica e interativa</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Aplicação WEB Dinâmica e Interativa
         </a>
       </td>
     </tr>
@@ -210,16 +240,26 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <th width="50%" align="center">
+        <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+        &nbsp;Exercícios e Atividades
+      </th>
+      <th width="50%" align="center">
+        <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+        &nbsp;Projeto Final
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="./04-linux-para-desenvolvedores-e-devops/exercicios">
-          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Exercícios e Atividades</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Exercícios
         </a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="./04-linux-para-desenvolvedores-e-devops/projeto-final">
-          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Projeto Final
         </a>
       </td>
     </tr>
@@ -253,16 +293,26 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <th width="50%" align="center">
+        <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+        &nbsp;Exercícios e Atividades
+      </th>
+      <th width="50%" align="center">
+        <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+        &nbsp;Projeto Final
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="./05-controle-de-versao-e-colaboracao-com-git-e-github/exercicios">
-          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Exercícios e Atividades</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Exercícios
         </a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="./05-controle-de-versao-e-colaboracao-com-git-e-github/projeto-final">
-          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Projeto Final
         </a>
       </td>
     </tr>
@@ -295,16 +345,26 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <th width="50%" align="center">
+        <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+        &nbsp;Exercícios e Atividades
+      </th>
+      <th width="50%" align="center">
+        <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+        &nbsp;Projeto Final
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="./06-banco-de-dados-para-sistemas-web/exercicios">
-          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Exercícios e Atividades</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Exercícios
         </a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="./06-banco-de-dados-para-sistemas-web/projeto-final">
-          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Projeto Final
         </a>
       </td>
     </tr>
@@ -337,16 +397,26 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <th width="50%" align="center">
+        <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+        &nbsp;Exercícios e Atividades
+      </th>
+      <th width="50%" align="center">
+        <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+        &nbsp;Projeto Final
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="./07-programacao-orientada-a-objetos/exercicios">
-          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Exercícios e Atividades</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Exercícios
         </a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="./07-programacao-orientada-a-objetos/projeto-final">
-          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Projeto Final
         </a>
       </td>
     </tr>
@@ -380,16 +450,26 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <th width="50%" align="center">
+        <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+        &nbsp;Exercícios e Atividades
+      </th>
+      <th width="50%" align="center">
+        <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+        &nbsp;Projeto Final
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="./08-desenvolvimento-de-aplicacoes-back-end-com-nestjs/exercicios">
-          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Exercícios e Atividades</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Exercícios
         </a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="./08-desenvolvimento-de-aplicacoes-back-end-com-nestjs/projeto-final">
-          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Projeto Final
         </a>
       </td>
     </tr>
@@ -422,16 +502,26 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <th width="50%" align="center">
+        <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+        &nbsp;Exercícios e Atividades
+      </th>
+      <th width="50%" align="center">
+        <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+        &nbsp;Projeto Final
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="./09-gestao-de-projetos-web-com-metodologias-ageis/exercicios">
-          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Exercícios e Atividades</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Exercícios
         </a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="./09-gestao-de-projetos-web-com-metodologias-ageis/projeto-final">
-          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Projeto Final
         </a>
       </td>
     </tr>
@@ -465,16 +555,26 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <th width="50%" align="center">
+        <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+        &nbsp;Exercícios e Atividades
+      </th>
+      <th width="50%" align="center">
+        <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+        &nbsp;Projeto Final
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="./10-infraestrutura-web-servidores-deploy-e-cloud/exercicios">
-          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Exercícios e Atividades</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Exercícios
         </a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="./10-infraestrutura-web-servidores-deploy-e-cloud/projeto-final">
-          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Projeto Final
         </a>
       </td>
     </tr>
@@ -509,16 +609,26 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <th width="50%" align="center">
+        <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+        &nbsp;Exercícios e Atividades
+      </th>
+      <th width="50%" align="center">
+        <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+        &nbsp;Projeto Final
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="./11-projeto-e-implementacao-de-solucoes-saas-inteligentes/exercicios">
-          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Exercícios e Atividades</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Exercícios
         </a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="./11-projeto-e-implementacao-de-solucoes-saas-inteligentes/projeto-final">
-          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Projeto Final
         </a>
       </td>
     </tr>
@@ -551,16 +661,26 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <th width="50%" align="center">
+        <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
+        &nbsp;Exercícios e Atividades
+      </th>
+      <th width="50%" align="center">
+        <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
+        &nbsp;Projeto Final
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="./12-inovacao-e-tendencias-em-desenvolvimento-web/exercicios">
-          <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Exercícios e Atividades</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Exercícios
         </a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="./12-inovacao-e-tendencias-em-desenvolvimento-web/projeto-final">
-          <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
-          &nbsp;<b>Projeto Final</b>
+          <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
+          &nbsp;Acessar Projeto Final
         </a>
       </td>
     </tr>
