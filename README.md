@@ -62,20 +62,18 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">
-        <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
+      <th colspan="2" align="left">
+        <img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" hspace="3" />
+        <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" hspace="3" />
         <img src="./assets/icons/01-web.svg" width="22" height="22" valign="middle" />
         &nbsp;<b>1. Desenvolvimento de Interfaces Web com HTML5 e CSS3</b>
-      </th>
-      <th align="right" valign="middle">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2">
+        <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
@@ -86,13 +84,13 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./01-desenvolvimento-de-interfaces-web-com-html5-e-css3/exercicios">
           <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Exercícios e Atividades</b>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./01-desenvolvimento-de-interfaces-web-com-html5-e-css3/projeto-final">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Projeto Final</b>
         </a>
@@ -107,19 +105,17 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">
-        <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
+      <th colspan="2" align="left">
+        <img align="right" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" hspace="3" />
         <img src="./assets/icons/02-logic.svg" width="22" height="22" valign="middle" />
         &nbsp;<b>2. Lógica de Programação para Desenvolvedores Web</b>
-      </th>
-      <th align="right" valign="middle">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2">
+        <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
@@ -130,13 +126,13 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./02-logica-de-programacao-para-desenvolvedores-web/exercicios">
           <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Exercícios e Atividades</b>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./02-logica-de-programacao-para-desenvolvedores-web/projeto-final">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Projeto Final</b>
         </a>
@@ -151,20 +147,18 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">
-        <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
+      <th colspan="2" align="left">
+        <img align="right" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" hspace="3" />
+        <img align="right" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" hspace="3" />
         <img src="./assets/icons/03-react.svg" width="22" height="22" valign="middle" />
         &nbsp;<b>3. Desenvolvimento de Aplicações Web Dinâmicas e Interativas</b>
-      </th>
-      <th align="right" valign="middle">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2">
+        <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
@@ -175,13 +169,13 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./03-desenvolvimento-de-aplicacoes-web-dinamicas-e-interativas/exercicios">
           <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Exercícios e Atividades</b>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./03-desenvolvimento-de-aplicacoes-web-dinamicas-e-interativas/projeto-final">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Projeto Final</b>
         </a>
@@ -196,19 +190,17 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">
-        <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
+      <th colspan="2" align="left">
+        <img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" hspace="3" />
         <img src="./assets/icons/04-linux.svg" width="22" height="22" valign="middle" />
         &nbsp;<b>4. Linux para Desenvolvedores e DevOps</b>
-      </th>
-      <th align="right" valign="middle">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2">
+        <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
@@ -219,13 +211,13 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./04-linux-para-desenvolvedores-e-devops/exercicios">
           <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Exercícios e Atividades</b>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./04-linux-para-desenvolvedores-e-devops/projeto-final">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Projeto Final</b>
         </a>
@@ -240,20 +232,18 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">
-        <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
+      <th colspan="2" align="left">
+        <img align="right" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" hspace="3" />
+        <img align="right" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" hspace="3" />
         <img src="./assets/icons/05-git.svg" width="22" height="22" valign="middle" />
         &nbsp;<b>5. Controle de Versão e Colaboração com Git e GitHub</b>
-      </th>
-      <th align="right" valign="middle">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2">
+        <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
@@ -264,13 +254,13 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./05-controle-de-versao-e-colaboracao-com-git-e-github/exercicios">
           <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Exercícios e Atividades</b>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./05-controle-de-versao-e-colaboracao-com-git-e-github/projeto-final">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Projeto Final</b>
         </a>
@@ -285,19 +275,17 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">
-        <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
+      <th colspan="2" align="left">
+        <img align="right" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" hspace="3" />
         <img src="./assets/icons/06-db.svg" width="22" height="22" valign="middle" />
         &nbsp;<b>6. Banco de Dados para Sistemas Web</b>
-      </th>
-      <th align="right" valign="middle">
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2">
+        <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
@@ -308,13 +296,13 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./06-banco-de-dados-para-sistemas-web/exercicios">
           <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Exercícios e Atividades</b>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./06-banco-de-dados-para-sistemas-web/projeto-final">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Projeto Final</b>
         </a>
@@ -329,19 +317,17 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">
-        <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
+      <th colspan="2" align="left">
+        <img align="right" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" hspace="3" />
         <img src="./assets/icons/07-oop.svg" width="22" height="22" valign="middle" />
         &nbsp;<b>7. Programação Orientada a Objetos</b>
-      </th>
-      <th align="right" valign="middle">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2">
+        <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
@@ -352,13 +338,13 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./07-programacao-orientada-a-objetos/exercicios">
           <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Exercícios e Atividades</b>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./07-programacao-orientada-a-objetos/projeto-final">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Projeto Final</b>
         </a>
@@ -373,20 +359,18 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">
-        <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
+      <th colspan="2" align="left">
+        <img align="right" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" hspace="3" />
+        <img align="right" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" hspace="3" />
         <img src="./assets/icons/08-backend.svg" width="22" height="22" valign="middle" />
         &nbsp;<b>8. Desenvolvimento de Aplicações Back-End com NestJS</b>
-      </th>
-      <th align="right" valign="middle">
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2">
+        <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
@@ -397,13 +381,13 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./08-desenvolvimento-de-aplicacoes-back-end-com-nestjs/exercicios">
           <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Exercícios e Atividades</b>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./08-desenvolvimento-de-aplicacoes-back-end-com-nestjs/projeto-final">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Projeto Final</b>
         </a>
@@ -418,19 +402,17 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">
-        <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
+      <th colspan="2" align="left">
+        <img align="right" src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Agile" hspace="3" />
         <img src="./assets/icons/09-agile.svg" width="22" height="22" valign="middle" />
         &nbsp;<b>9. Gestão de Projetos Web com Metodologias Ágeis</b>
-      </th>
-      <th align="right" valign="middle">
-        <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Agile" />
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2">
+        <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
@@ -441,13 +423,13 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./09-gestao-de-projetos-web-com-metodologias-ageis/exercicios">
           <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Exercícios e Atividades</b>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./09-gestao-de-projetos-web-com-metodologias-ageis/projeto-final">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Projeto Final</b>
         </a>
@@ -462,20 +444,18 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">
-        <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
+      <th colspan="2" align="left">
+        <img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" hspace="3" />
+        <img align="right" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" hspace="3" />
         <img src="./assets/icons/10-cloud.svg" width="22" height="22" valign="middle" />
         &nbsp;<b>10. Infraestrutura Web: Servidores, Deploy e Cloud</b>
-      </th>
-      <th align="right" valign="middle">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2">
+        <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
@@ -486,13 +466,13 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./10-infraestrutura-web-servidores-deploy-e-cloud/exercicios">
           <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Exercícios e Atividades</b>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./10-infraestrutura-web-servidores-deploy-e-cloud/projeto-final">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Projeto Final</b>
         </a>
@@ -507,21 +487,19 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">
-        <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
+      <th colspan="2" align="left">
+        <img align="right" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" hspace="3" />
+        <img align="right" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" hspace="3" />
+        <img align="right" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" hspace="3" />
         <img src="./assets/icons/11-saas.svg" width="22" height="22" valign="middle" />
         &nbsp;<b>11. Projeto e Implementação de Soluções SaaS Inteligentes</b>
-      </th>
-      <th align="right" valign="middle">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2">
+        <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
@@ -532,13 +510,13 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./11-projeto-e-implementacao-de-solucoes-saas-inteligentes/exercicios">
           <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Exercícios e Atividades</b>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./11-projeto-e-implementacao-de-solucoes-saas-inteligentes/projeto-final">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Projeto Final</b>
         </a>
@@ -553,19 +531,17 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">
-        <img src="./assets/utpr-logo.svg" width="1000" height="0" /><br>
+      <th colspan="2" align="left">
+        <img align="right" src="https://img.shields.io/badge/Inteligência%20Artificial-6A5ACD?style=for-the-badge&logo=probot&logoColor=white" alt="IA" hspace="3" />
         <img src="./assets/icons/12-ai.svg" width="22" height="22" valign="middle" />
         &nbsp;<b>12. Inovação e Tendências em Desenvolvimento Web</b>
-      </th>
-      <th align="right" valign="middle">
-        <img src="https://img.shields.io/badge/Inteligência%20Artificial-6A5ACD?style=for-the-badge&logo=probot&logoColor=white" alt="IA" />
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2">
+        <img src="./assets/utpr-logo.svg" width="1000" height="0" />
         <p>
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
@@ -576,13 +552,13 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./12-inovacao-e-tendencias-em-desenvolvimento-web/exercicios">
           <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Exercícios e Atividades</b>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="./12-inovacao-e-tendencias-em-desenvolvimento-web/projeto-final">
           <img src="./assets/icons/project.svg" width="18" height="18" valign="middle" />
           &nbsp;<b>Projeto Final</b>
         </a>
