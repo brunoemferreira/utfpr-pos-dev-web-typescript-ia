@@ -7,7 +7,7 @@ Repositório da disciplina de **Inovação e Tendências em Desenvolvimento Web*
 ## 📌 Informações Gerais
 
 - **Tecnologias:** Inteligência Artificial
-- **Professores:** A definir
+- **Professores:** Prof. Dr. Luciano Ogiboski
 - **Status:** A cursar
 
 ---

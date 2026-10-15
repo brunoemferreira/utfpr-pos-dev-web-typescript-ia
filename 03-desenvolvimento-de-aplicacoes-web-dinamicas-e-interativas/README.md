@@ -7,7 +7,7 @@ Repositório da disciplina de **Desenvolvimento de Aplicações Web Dinâmicas e
 ## 📌 Informações Gerais
 
 - **Tecnologias:** React, TypeScript
-- **Professores:** A definir
+- **Professores:** Prof. Dr. Andres Porfirio
 - **Status:** A cursar
 
 ---

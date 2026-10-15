@@ -130,7 +130,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> 01/06/2026 até 26/07/2026 &nbsp;<img src="./assets/icons/check.svg" width="16" height="16" valign="middle" alt="Concluída" title="Disciplina Finalizada" /><br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Professores:</b> <i>A definir</i>
+          &nbsp;<b>Professores:</b> Profª. Dra. Renata Stange
         </p>
       </td>
     </tr>
@@ -183,7 +183,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> 24/08/2026 até 11/10/2026 &nbsp;<img src="./assets/icons/check.svg" width="16" height="16" valign="middle" alt="Concluída" title="Disciplina Finalizada" /><br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Professores:</b> <i>A definir</i>
+          &nbsp;<b>Professores:</b> Prof. Dr. Andres Porfirio
         </p>
       </td>
     </tr>
@@ -656,7 +656,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Professores:</b> <i>A definir</i>
+          &nbsp;<b>Professores:</b> Prof. Dr. Luciano Ogiboski
         </p>
       </td>
     </tr>

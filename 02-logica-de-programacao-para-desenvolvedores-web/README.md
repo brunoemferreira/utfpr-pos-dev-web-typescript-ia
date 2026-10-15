@@ -7,7 +7,7 @@ Repositório da disciplina de **Lógica de Programação para Desenvolvedores We
 ## 📌 Informações Gerais
 
 - **Tecnologias:** TypeScript
-- **Professores:** A definir
+- **Professores:** Profª. Dra. Renata Stange
 - **Status:** A cursar
 
 ---
