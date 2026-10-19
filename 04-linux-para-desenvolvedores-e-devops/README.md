@@ -7,20 +7,37 @@ Repositório da disciplina de **Linux para Desenvolvedores e DevOps** da Pós-Gr
 ## 📌 Informações Gerais
 
 - **Tecnologias:** Linux
-- **Professores:** A definir
-- **Status:** A cursar
+- **Professores:** Prof. Dr. Luciano Ogiboski
+- **Status:** Em andamento 
 
 ---
 
 ## 📂 Estrutura de Pastas
-
-`	ext
+```text
 04-linux-para-desenvolvedores-e-devops/
-├── exercicios/       # Atividades práticas e laboratoriais
-└── projeto-final/    # Projeto avaliativo final da disciplina
-`
+├── 1-terminal-e-sistema-de-arquivos/    # 1.1 • Primeiros Comandos e Produtividade
+├── 2-navegacao-no-sistema-de-arquivos/  # 1.2 • Navegação no Sistema de Arquivos
+├── 3-manipulacao-de-arquivos-e-pastas/  # 1.3 • Manipulação de Arquivos e Pastas
+├── exercicios/                          # Atividades práticas e laboratoriais
+└── projeto-final/                       # Projeto avaliativo final da disciplina
+```
 
 ---
+
+## 📋 Estrutura da Disciplina
+
+- ⚙️ **0 • Configuração do Ambiente**
+- 📖 **1 • Terminal e Sistema de Arquivos**
+  - [**1.1 - Primeiros Comandos e Produtividade**](./1-terminal-e-sistema-de-arquivos/)
+  - [**1.2 - Navegação no Sistema de Arquivos**](./2-navegacao-no-sistema-de-arquivos/)
+  - [**1.3 - Manipulação de Arquivos e Pastas**](./3-manipulacao-de-arquivos-e-pastas/)
+- 📖 **2 • Permissões, Logs e Editores**
+- 📖 **3 • Processos, Recursos e Pacotes**
+- 📖 **4 • Redes, Testes HTTP e SSH**
+- 🧩 **TE1 • Automação, Cron e Systemd**
+- 🧩 **TE2 • Agentes de IA no Terminal com Claude Code**
+- 🛠️ **Prática**
+
 
 ## 📝 Exercícios e Atividades
 
