@@ -14,11 +14,11 @@ Repositório da disciplina de **Banco de Dados para Sistemas Web** da Pós-Gradu
 
 ## 📂 Estrutura de Pastas
 
-`	ext
+```text
 06-banco-de-dados-para-sistemas-web/
 ├── exercicios/       # Atividades práticas e laboratoriais
 └── projeto-final/    # Projeto avaliativo final da disciplina
-`
+```
 
 ---
 
@@ -29,3 +29,7 @@ Repositório da disciplina de **Banco de Dados para Sistemas Web** da Pós-Gradu
 ## 🚀 Projeto Final
 
 - [Pasta do Projeto Final](./projeto-final/)
+
+---
+
+[⬅️ Voltar ao Repositório Principal](../README.md)

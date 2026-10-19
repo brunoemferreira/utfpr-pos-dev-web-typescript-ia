@@ -14,11 +14,11 @@ Repositório da disciplina de **Inovação e Tendências em Desenvolvimento Web*
 
 ## 📂 Estrutura de Pastas
 
-`	ext
+```text
 12-inovacao-e-tendencias-em-desenvolvimento-web/
 ├── exercicios/       # Atividades práticas e laboratoriais
 └── projeto-final/    # Projeto avaliativo final da disciplina
-`
+```
 
 ---
 
@@ -29,3 +29,7 @@ Repositório da disciplina de **Inovação e Tendências em Desenvolvimento Web*
 ## 🚀 Projeto Final
 
 - [Pasta do Projeto Final](./projeto-final/)
+
+---
+
+[⬅️ Voltar ao Repositório Principal](../README.md)

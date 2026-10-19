@@ -14,11 +14,11 @@ Repositório da disciplina de **Controle de Versão e Colaboração com Git e Gi
 
 ## 📂 Estrutura de Pastas
 
-`	ext
+```text
 05-controle-de-versao-e-colaboracao-com-git-e-github/
 ├── exercicios/       # Atividades práticas e laboratoriais
 └── projeto-final/    # Projeto avaliativo final da disciplina
-`
+```
 
 ---
 
@@ -29,3 +29,7 @@ Repositório da disciplina de **Controle de Versão e Colaboração com Git e Gi
 ## 🚀 Projeto Final
 
 - [Pasta do Projeto Final](./projeto-final/)
+
+---
+
+[⬅️ Voltar ao Repositório Principal](../README.md)

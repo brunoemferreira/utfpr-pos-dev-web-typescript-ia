@@ -14,11 +14,11 @@ Repositório da disciplina de **Infraestrutura Web: Servidores, Deploy e Cloud**
 
 ## 📂 Estrutura de Pastas
 
-`	ext
+```text
 10-infraestrutura-web-servidores-deploy-e-cloud/
 ├── exercicios/       # Atividades práticas e laboratoriais
 └── projeto-final/    # Projeto avaliativo final da disciplina
-`
+```
 
 ---
 
@@ -29,3 +29,7 @@ Repositório da disciplina de **Infraestrutura Web: Servidores, Deploy e Cloud**
 ## 🚀 Projeto Final
 
 - [Pasta do Projeto Final](./projeto-final/)
+
+---
+
+[⬅️ Voltar ao Repositório Principal](../README.md)

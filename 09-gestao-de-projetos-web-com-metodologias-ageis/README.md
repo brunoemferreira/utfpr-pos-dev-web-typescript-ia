@@ -14,11 +14,11 @@ Repositório da disciplina de **Gestão de Projetos Web com Metodologias Ágeis*
 
 ## 📂 Estrutura de Pastas
 
-`	ext
+```text
 09-gestao-de-projetos-web-com-metodologias-ageis/
 ├── exercicios/       # Atividades práticas e laboratoriais
 └── projeto-final/    # Projeto avaliativo final da disciplina
-`
+```
 
 ---
 
@@ -29,3 +29,7 @@ Repositório da disciplina de **Gestão de Projetos Web com Metodologias Ágeis*
 ## 🚀 Projeto Final
 
 - [Pasta do Projeto Final](./projeto-final/)
+
+---
+
+[⬅️ Voltar ao Repositório Principal](../README.md)

@@ -14,11 +14,11 @@ Repositório da disciplina de **Programação Orientada a Objetos** da Pós-Grad
 
 ## 📂 Estrutura de Pastas
 
-`	ext
+```text
 07-programacao-orientada-a-objetos/
 ├── exercicios/       # Atividades práticas e laboratoriais
 └── projeto-final/    # Projeto avaliativo final da disciplina
-`
+```
 
 ---
 
@@ -29,3 +29,7 @@ Repositório da disciplina de **Programação Orientada a Objetos** da Pós-Grad
 ## 🚀 Projeto Final
 
 - [Pasta do Projeto Final](./projeto-final/)
+
+---
+
+[⬅️ Voltar ao Repositório Principal](../README.md)

@@ -14,11 +14,11 @@ Repositório da disciplina de **Projeto e Implementação de Soluções SaaS Int
 
 ## 📂 Estrutura de Pastas
 
-`	ext
+```text
 11-projeto-e-implementacao-de-solucoes-saas-inteligentes/
 ├── exercicios/       # Atividades práticas e laboratoriais
 └── projeto-final/    # Projeto avaliativo final da disciplina
-`
+```
 
 ---
 
@@ -29,3 +29,7 @@ Repositório da disciplina de **Projeto e Implementação de Soluções SaaS Int
 ## 🚀 Projeto Final
 
 - [Pasta do Projeto Final](./projeto-final/)
+
+---
+
+[⬅️ Voltar ao Repositório Principal](../README.md)

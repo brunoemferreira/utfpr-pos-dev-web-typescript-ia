@@ -14,11 +14,11 @@ Repositório da disciplina de **Desenvolvimento de Aplicações Back-End com Nes
 
 ## 📂 Estrutura de Pastas
 
-`	ext
+```text
 08-desenvolvimento-de-aplicacoes-back-end-com-nestjs/
 ├── exercicios/       # Atividades práticas e laboratoriais
 └── projeto-final/    # Projeto avaliativo final da disciplina
-`
+```
 
 ---
 
@@ -29,3 +29,7 @@ Repositório da disciplina de **Desenvolvimento de Aplicações Back-End com Nes
 ## 🚀 Projeto Final
 
 - [Pasta do Projeto Final](./projeto-final/)
+
+---
+
+[⬅️ Voltar ao Repositório Principal](../README.md)
