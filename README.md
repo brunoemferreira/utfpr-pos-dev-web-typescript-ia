@@ -100,9 +100,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         </a>
       </td>
       <td align="center">
-        <a href="./01-desenvolvimento-de-interfaces-web-com-html5-e-css3/projeto-final">
+        <a href="https://github.com/brunoemferreira/pos-web-utfpr-projeto-com-html-css">
           <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
-          &nbsp;Acessar Projeto Final
+          &nbsp;Projeto com HTML e CSS
         </a>
       </td>
     </tr>
@@ -152,9 +152,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         </a>
       </td>
       <td align="center">
-        <a href="./02-logica-de-programacao-para-desenvolvedores-web/projeto-final">
+        <a href="https://github.com/brunoemferreira/utfpr-sistema-de-triagem-para-upa">
           <img src="./assets/icons/external-link.svg" width="14" height="14" valign="middle" />
-          &nbsp;Acessar Projeto Final
+          &nbsp;Sistema de Triagem para UPA
         </a>
       </td>
     </tr>
