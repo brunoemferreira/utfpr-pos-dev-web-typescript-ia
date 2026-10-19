@@ -66,7 +66,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" hspace="3" />
         <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" hspace="3" />
         <img src="./assets/icons/01-web.svg" width="22" height="22" valign="middle" />
-        &nbsp;<b>1. Desenvolvimento de Interfaces Web com HTML5 e CSS3</b>
+        &nbsp;<a href="./01-desenvolvimento-de-interfaces-web-com-html5-e-css3/"><b>1. Desenvolvimento de Interfaces Web com HTML5 e CSS3</b></a>
       </th>
     </tr>
   </thead>
@@ -79,6 +79,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           &nbsp;<b>Período:</b> 06/04/2026 até 24/05/2026 &nbsp;<img src="./assets/icons/check.svg" width="16" height="16" valign="middle" alt="Concluída" title="Disciplina Finalizada" /><br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> Prof. Dr. Andres Porfirio &bull; Prof. Dr. Diego Marczal
+        <br><br>
+          <img src="./assets/icons/book.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Guia da Disciplina:</b> <a href="./01-desenvolvimento-de-interfaces-web-com-html5-e-css3/">Acessar README</a>
         </p>
       </td>
     </tr>
@@ -118,7 +121,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       <th colspan="2" align="left">
         <img align="right" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" hspace="3" />
         <img src="./assets/icons/02-logic.svg" width="22" height="22" valign="middle" />
-        &nbsp;<b>2. Lógica de Programação para Desenvolvedores Web</b>
+        &nbsp;<a href="./02-logica-de-programacao-para-desenvolvedores-web/"><b>2. Lógica de Programação para Desenvolvedores Web</b></a>
       </th>
     </tr>
   </thead>
@@ -131,6 +134,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           &nbsp;<b>Período:</b> 01/06/2026 até 26/07/2026 &nbsp;<img src="./assets/icons/check.svg" width="16" height="16" valign="middle" alt="Concluída" title="Disciplina Finalizada" /><br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> Profª. Dra. Renata Stange
+        <br><br>
+          <img src="./assets/icons/book.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Guia da Disciplina:</b> <a href="./02-logica-de-programacao-para-desenvolvedores-web/">Acessar README</a>
         </p>
       </td>
     </tr>
@@ -171,7 +177,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img align="right" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" hspace="3" />
         <img align="right" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" hspace="3" />
         <img src="./assets/icons/03-react.svg" width="22" height="22" valign="middle" />
-        &nbsp;<b>3. Desenvolvimento de Aplicações Web Dinâmicas e Interativas</b>
+        &nbsp;<a href="./03-desenvolvimento-de-aplicacoes-web-dinamicas-e-interativas/"><b>3. Desenvolvimento de Aplicações Web Dinâmicas e Interativas</b></a>
       </th>
     </tr>
   </thead>
@@ -184,6 +190,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           &nbsp;<b>Período:</b> 24/08/2026 até 11/10/2026 &nbsp;<img src="./assets/icons/check.svg" width="16" height="16" valign="middle" alt="Concluída" title="Disciplina Finalizada" /><br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> Prof. Dr. Andres Porfirio
+        <br><br>
+          <img src="./assets/icons/book.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Guia da Disciplina:</b> <a href="./03-desenvolvimento-de-aplicacoes-web-dinamicas-e-interativas/">Acessar README</a>
         </p>
       </td>
     </tr>
@@ -223,7 +232,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       <th colspan="2" align="left">
         <img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" hspace="3" />
         <img src="./assets/icons/04-linux.svg" width="22" height="22" valign="middle" />
-        &nbsp;<b>4. Linux para Desenvolvedores e DevOps</b>
+        &nbsp;<a href="./04-linux-para-desenvolvedores-e-devops/"><b>4. Linux para Desenvolvedores e DevOps</b></a>
       </th>
     </tr>
   </thead>
@@ -235,7 +244,10 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           <img src="./assets/icons/calendar.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Período:</b> 19/10/2026 até 06/12/2026<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
-          &nbsp;<b>Professores:</b> <i>A definir</i>
+          &nbsp;<b>Professores:</b> Prof. Dr. Luciano Ogiboski
+        <br><br>
+          <img src="./assets/icons/book.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Guia da Disciplina:</b> <a href="./04-linux-para-desenvolvedores-e-devops/">Acessar README</a>
         </p>
       </td>
     </tr>
@@ -276,7 +288,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img align="right" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" hspace="3" />
         <img align="right" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" hspace="3" />
         <img src="./assets/icons/05-git.svg" width="22" height="22" valign="middle" />
-        &nbsp;<b>5. Controle de Versão e Colaboração com Git e GitHub</b>
+        &nbsp;<a href="./05-controle-de-versao-e-colaboracao-com-git-e-github/"><b>5. Controle de Versão e Colaboração com Git e GitHub</b></a>
       </th>
     </tr>
   </thead>
@@ -289,6 +301,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           &nbsp;<b>Período:</b> 01/02/2027 até 14/03/2027<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
+        <br><br>
+          <img src="./assets/icons/book.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Guia da Disciplina:</b> <a href="./05-controle-de-versao-e-colaboracao-com-git-e-github/">Acessar README</a>
         </p>
       </td>
     </tr>
@@ -328,7 +343,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       <th colspan="2" align="left">
         <img align="right" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" hspace="3" />
         <img src="./assets/icons/06-db.svg" width="22" height="22" valign="middle" />
-        &nbsp;<b>6. Banco de Dados para Sistemas Web</b>
+        &nbsp;<a href="./06-banco-de-dados-para-sistemas-web/"><b>6. Banco de Dados para Sistemas Web</b></a>
       </th>
     </tr>
   </thead>
@@ -341,6 +356,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           &nbsp;<b>Período:</b> 22/03/2027 até 02/05/2027<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
+        <br><br>
+          <img src="./assets/icons/book.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Guia da Disciplina:</b> <a href="./06-banco-de-dados-para-sistemas-web/">Acessar README</a>
         </p>
       </td>
     </tr>
@@ -380,7 +398,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       <th colspan="2" align="left">
         <img align="right" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" hspace="3" />
         <img src="./assets/icons/07-oop.svg" width="22" height="22" valign="middle" />
-        &nbsp;<b>7. Programação Orientada a Objetos</b>
+        &nbsp;<a href="./07-programacao-orientada-a-objetos/"><b>7. Programação Orientada a Objetos</b></a>
       </th>
     </tr>
   </thead>
@@ -393,6 +411,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           &nbsp;<b>Período:</b> 10/05/2027 até 20/06/2027<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
+        <br><br>
+          <img src="./assets/icons/book.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Guia da Disciplina:</b> <a href="./07-programacao-orientada-a-objetos/">Acessar README</a>
         </p>
       </td>
     </tr>
@@ -433,7 +454,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img align="right" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" hspace="3" />
         <img align="right" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" hspace="3" />
         <img src="./assets/icons/08-backend.svg" width="22" height="22" valign="middle" />
-        &nbsp;<b>8. Desenvolvimento de Aplicações Back-End com NestJS</b>
+        &nbsp;<a href="./08-desenvolvimento-de-aplicacoes-back-end-com-nestjs/"><b>8. Desenvolvimento de Aplicações Back-End com NestJS</b></a>
       </th>
     </tr>
   </thead>
@@ -446,6 +467,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           &nbsp;<b>Período:</b> 12/07/2027 até 22/08/2027<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
+        <br><br>
+          <img src="./assets/icons/book.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Guia da Disciplina:</b> <a href="./08-desenvolvimento-de-aplicacoes-back-end-com-nestjs/">Acessar README</a>
         </p>
       </td>
     </tr>
@@ -485,7 +509,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       <th colspan="2" align="left">
         <img align="right" src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Agile" hspace="3" />
         <img src="./assets/icons/09-agile.svg" width="22" height="22" valign="middle" />
-        &nbsp;<b>9. Gestão de Projetos Web com Metodologias Ágeis</b>
+        &nbsp;<a href="./09-gestao-de-projetos-web-com-metodologias-ageis/"><b>9. Gestão de Projetos Web com Metodologias Ágeis</b></a>
       </th>
     </tr>
   </thead>
@@ -498,6 +522,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           &nbsp;<b>Período:</b> 30/08/2027 até 10/10/2027<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
+        <br><br>
+          <img src="./assets/icons/book.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Guia da Disciplina:</b> <a href="./09-gestao-de-projetos-web-com-metodologias-ageis/">Acessar README</a>
         </p>
       </td>
     </tr>
@@ -538,7 +565,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" hspace="3" />
         <img align="right" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" hspace="3" />
         <img src="./assets/icons/10-cloud.svg" width="22" height="22" valign="middle" />
-        &nbsp;<b>10. Infraestrutura Web: Servidores, Deploy e Cloud</b>
+        &nbsp;<a href="./10-infraestrutura-web-servidores-deploy-e-cloud/"><b>10. Infraestrutura Web: Servidores, Deploy e Cloud</b></a>
       </th>
     </tr>
   </thead>
@@ -551,6 +578,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           &nbsp;<b>Período:</b> 18/10/2027 até 05/12/2027<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
+        <br><br>
+          <img src="./assets/icons/book.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Guia da Disciplina:</b> <a href="./10-infraestrutura-web-servidores-deploy-e-cloud/">Acessar README</a>
         </p>
       </td>
     </tr>
@@ -592,7 +622,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
         <img align="right" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" hspace="3" />
         <img align="right" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" hspace="3" />
         <img src="./assets/icons/11-saas.svg" width="22" height="22" valign="middle" />
-        &nbsp;<b>11. Projeto e Implementação de Soluções SaaS Inteligentes</b>
+        &nbsp;<a href="./11-projeto-e-implementacao-de-solucoes-saas-inteligentes/"><b>11. Projeto e Implementação de Soluções SaaS Inteligentes</b></a>
       </th>
     </tr>
   </thead>
@@ -605,6 +635,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           &nbsp;<b>Período:</b> 31/01/2028 até 26/03/2028<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> <i>A definir</i>
+        <br><br>
+          <img src="./assets/icons/book.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Guia da Disciplina:</b> <a href="./11-projeto-e-implementacao-de-solucoes-saas-inteligentes/">Acessar README</a>
         </p>
       </td>
     </tr>
@@ -644,7 +677,7 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
       <th colspan="2" align="left">
         <img align="right" src="https://img.shields.io/badge/Inteligência%20Artificial-6A5ACD?style=for-the-badge&logo=probot&logoColor=white" alt="IA" hspace="3" />
         <img src="./assets/icons/12-ai.svg" width="22" height="22" valign="middle" />
-        &nbsp;<b>12. Inovação e Tendências em Desenvolvimento Web</b>
+        &nbsp;<a href="./12-inovacao-e-tendencias-em-desenvolvimento-web/"><b>12. Inovação e Tendências em Desenvolvimento Web</b></a>
       </th>
     </tr>
   </thead>
@@ -657,6 +690,9 @@ Abaixo estão listadas todas as disciplinas do curso organizadas em formato de c
           &nbsp;<b>Período:</b> &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; até &nbsp;&nbsp;/&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
           <img src="./assets/icons/teacher.svg" width="16" height="16" valign="middle" />
           &nbsp;<b>Professores:</b> Prof. Dr. Luciano Ogiboski
+        <br><br>
+          <img src="./assets/icons/book.svg" width="16" height="16" valign="middle" />
+          &nbsp;<b>Guia da Disciplina:</b> <a href="./12-inovacao-e-tendencias-em-desenvolvimento-web/">Acessar README</a>
         </p>
       </td>
     </tr>
