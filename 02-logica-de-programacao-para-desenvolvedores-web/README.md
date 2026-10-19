@@ -8,17 +8,17 @@ Repositório da disciplina de **Lógica de Programação para Desenvolvedores We
 
 - **Tecnologias:** TypeScript
 - **Professores:** Profª. Dra. Renata Stange
-- **Status:** A cursar
+- **Status:** Concluída
 
 ---
 
 ## 📂 Estrutura de Pastas
 
-`	ext
+```text
 02-logica-de-programacao-para-desenvolvedores-web/
 ├── exercicios/       # Atividades práticas e laboratoriais
 └── projeto-final/    # Projeto avaliativo final da disciplina
-`
+```
 
 ---
 
@@ -29,3 +29,8 @@ Repositório da disciplina de **Lógica de Programação para Desenvolvedores We
 ## 🚀 Projeto Final
 
 - [Pasta do Projeto Final](./projeto-final/)
+- [Repositório do Projeto Final (GitHub)](https://github.com/brunoemferreira/utfpr-sistema-de-triagem-para-upa)
+
+---
+
+[⬅️ Voltar ao Repositório Principal](../README.md)

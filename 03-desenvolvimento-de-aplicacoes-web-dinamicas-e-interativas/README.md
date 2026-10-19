@@ -8,17 +8,17 @@ Repositório da disciplina de **Desenvolvimento de Aplicações Web Dinâmicas e
 
 - **Tecnologias:** React, TypeScript
 - **Professores:** Prof. Dr. Andres Porfirio
-- **Status:** A cursar
+- **Status:** Concluída
 
 ---
 
 ## 📂 Estrutura de Pastas
 
-`	ext
+```text
 03-desenvolvimento-de-aplicacoes-web-dinamicas-e-interativas/
 ├── exercicios/       # Atividades práticas e laboratoriais
 └── projeto-final/    # Projeto avaliativo final da disciplina
-`
+```
 
 ---
 
@@ -29,3 +29,8 @@ Repositório da disciplina de **Desenvolvimento de Aplicações Web Dinâmicas e
 ## 🚀 Projeto Final
 
 - [Pasta do Projeto Final](./projeto-final/)
+- [Repositório do Projeto Final (GitHub)](https://github.com/brunoemferreira/utfpr-aplicacao-web-dinamica-e-interativa)
+
+---
+
+[⬅️ Voltar ao Repositório Principal](../README.md)
